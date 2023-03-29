@@ -1,0 +1,159 @@
+35 (AKAZE/AKAZE):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1351 keypoints in 110.959 ms
+Number of keypoints after bounding box filtering: 166
+Keypoints' distribution of neighborhood size: 7.72917
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 84.7384 ms
+#3 : EXTRACT DESCRIPTORS done
+
+Total Time = 204.982 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1327 keypoints in 108.427 ms
+Number of keypoints after bounding box filtering: 157
+Keypoints' distribution of neighborhood size: 7.4902
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 87.0777 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=138 matches in 1.04827 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 204.636 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1311 keypoints in 94.2039 ms
+Number of keypoints after bounding box filtering: 161
+Keypoints' distribution of neighborhood size: 7.45211
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 84.4347 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=138 matches in 0.952812 ms
+# keypoints removed = 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 186.718 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1351 keypoints in 96.3795 ms
+Number of keypoints after bounding box filtering: 155
+Keypoints' distribution of neighborhood size: 7.57522
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 84.5958 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=133 matches in 0.943986 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 188.865 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1360 keypoints in 96.165 ms
+Number of keypoints after bounding box filtering: 163
+Keypoints' distribution of neighborhood size: 7.73319
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 84.1609 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=127 matches in 0.954224 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 188.303 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1347 keypoints in 95.9806 ms
+Number of keypoints after bounding box filtering: 164
+Keypoints' distribution of neighborhood size: 7.68803
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 81.6841 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=129 matches in 1.01757 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 185.666 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1363 keypoints in 98.6657 ms
+Number of keypoints after bounding box filtering: 173
+Keypoints' distribution of neighborhood size: 7.73878
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 87.8601 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=146 matches in 1.08338 ms
+# keypoints removed = 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 194.569 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1331 keypoints in 97.5209 ms
+Number of keypoints after bounding box filtering: 175
+Keypoints' distribution of neighborhood size: 7.82612
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 85.2248 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=147 matches in 1.13346 ms
+# keypoints removed = 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 190.911 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1357 keypoints in 96.0836 ms
+Number of keypoints after bounding box filtering: 177
+Keypoints' distribution of neighborhood size: 7.81555
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 83.7448 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=151 matches in 1.15325 ms
+# keypoints removed = 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 188.345 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1331 keypoints in 95.2609 ms
+Number of keypoints after bounding box filtering: 179
+Keypoints' distribution of neighborhood size: 7.88575
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 82.0279 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=150 matches in 1.16404 ms
+# keypoints removed = 27
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 185.487 ms
+
+        ====================
+

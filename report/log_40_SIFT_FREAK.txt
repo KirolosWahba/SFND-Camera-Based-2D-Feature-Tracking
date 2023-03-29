@@ -1,0 +1,159 @@
+40 (SIFT/FREAK):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1438 keypoints in 158.063 ms
+Number of keypoints after bounding box filtering: 138
+Keypoints' distribution of neighborhood size: 4.98471
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.7401 ms
+#3 : EXTRACT DESCRIPTORS done
+
+Total Time = 216.035 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1371 keypoints in 154.356 ms
+Number of keypoints after bounding box filtering: 132
+Keypoints' distribution of neighborhood size: 5.0898
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4502 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=65 matches in 0.72073 ms
+# keypoints removed = 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 208.474 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1380 keypoints in 148.21 ms
+Number of keypoints after bounding box filtering: 124
+Keypoints' distribution of neighborhood size: 4.93926
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.6997 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=72 matches in 0.607842 ms
+# keypoints removed = 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 202.64 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1335 keypoints in 143.729 ms
+Number of keypoints after bounding box filtering: 137
+Keypoints' distribution of neighborhood size: 4.73122
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4211 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=64 matches in 0.607783 ms
+# keypoints removed = 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 197.79 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1305 keypoints in 148.914 ms
+Number of keypoints after bounding box filtering: 134
+Keypoints' distribution of neighborhood size: 4.71959
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.2774 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=66 matches in 0.660644 ms
+# keypoints removed = 70
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 202.873 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1370 keypoints in 145.711 ms
+Number of keypoints after bounding box filtering: 140
+Keypoints' distribution of neighborhood size: 4.68397
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4245 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=59 matches in 0.671767 ms
+# keypoints removed = 74
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 199.852 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1396 keypoints in 145.828 ms
+Number of keypoints after bounding box filtering: 137
+Keypoints' distribution of neighborhood size: 5.40797
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4566 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=59 matches in 0.684178 ms
+# keypoints removed = 80
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 199.955 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1382 keypoints in 144.606 ms
+Number of keypoints after bounding box filtering: 148
+Keypoints' distribution of neighborhood size: 4.62187
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.4402 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=64 matches in 0.692951 ms
+# keypoints removed = 71
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 198.784 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1463 keypoints in 145.082 ms
+Number of keypoints after bounding box filtering: 159
+Keypoints' distribution of neighborhood size: 5.51997
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.509 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=65 matches in 0.798808 ms
+# keypoints removed = 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 199.399 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1422 keypoints in 140.464 ms
+Number of keypoints after bounding box filtering: 137
+Keypoints' distribution of neighborhood size: 5.62509
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.0991 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=79 matches in 0.770158 ms
+# keypoints removed = 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 194.367 ms
+
+        ====================
+

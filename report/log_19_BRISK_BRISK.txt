@@ -1,0 +1,159 @@
+19 (BRISK/BRISK):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2757 keypoints in 445.54 ms
+Number of keypoints after bounding box filtering: 264
+Keypoints' distribution of neighborhood size: 21.5492
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 6.14926 ms
+#3 : EXTRACT DESCRIPTORS done
+
+Total Time = 853.109 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2777 keypoints in 431.502 ms
+Number of keypoints after bounding box filtering: 282
+Keypoints' distribution of neighborhood size: 21.7853
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.48358 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=171 matches in 2.30044 ms
+# keypoints removed = 93
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 833.154 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2741 keypoints in 429.052 ms
+Number of keypoints after bounding box filtering: 282
+Keypoints' distribution of neighborhood size: 21.6509
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.48187 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=176 matches in 2.37847 ms
+# keypoints removed = 106
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 827.939 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2735 keypoints in 430.004 ms
+Number of keypoints after bounding box filtering: 277
+Keypoints' distribution of neighborhood size: 20.3582
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.39317 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=157 matches in 2.33071 ms
+# keypoints removed = 125
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 829.79 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2757 keypoints in 429.604 ms
+Number of keypoints after bounding box filtering: 297
+Keypoints' distribution of neighborhood size: 22.5911
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.63339 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=176 matches in 2.43702 ms
+# keypoints removed = 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 830.505 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2695 keypoints in 430.012 ms
+Number of keypoints after bounding box filtering: 279
+Keypoints' distribution of neighborhood size: 22.9442
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.55482 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=174 matches in 2.47692 ms
+# keypoints removed = 123
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 829.169 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2715 keypoints in 429.852 ms
+Number of keypoints after bounding box filtering: 289
+Keypoints' distribution of neighborhood size: 21.8014
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.57083 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=188 matches in 2.44516 ms
+# keypoints removed = 91
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 830.127 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2628 keypoints in 430.907 ms
+Number of keypoints after bounding box filtering: 272
+Keypoints' distribution of neighborhood size: 22.1472
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.37045 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=173 matches in 2.35039 ms
+# keypoints removed = 116
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 830.466 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2639 keypoints in 440.653 ms
+Number of keypoints after bounding box filtering: 266
+Keypoints' distribution of neighborhood size: 22.5558
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.32665 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=171 matches in 2.1959 ms
+# keypoints removed = 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 839.487 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector with n= 2672 keypoints in 431.258 ms
+Number of keypoints after bounding box filtering: 254
+Keypoints' distribution of neighborhood size: 22.0389
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.24346 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=184 matches in 2.00528 ms
+# keypoints removed = 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 831.278 ms
+
+        ====================
+

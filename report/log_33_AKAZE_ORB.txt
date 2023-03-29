@@ -1,0 +1,159 @@
+33 (AKAZE/ORB):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1351 keypoints in 113.924 ms
+Number of keypoints after bounding box filtering: 166
+Keypoints' distribution of neighborhood size: 7.72917
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.00483 ms
+#3 : EXTRACT DESCRIPTORS done
+
+Total Time = 126.301 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1327 keypoints in 109.468 ms
+Number of keypoints after bounding box filtering: 157
+Keypoints' distribution of neighborhood size: 7.4902
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.76622 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=131 matches in 1.03024 ms
+# keypoints removed = 35
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 122.379 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1311 keypoints in 123.223 ms
+Number of keypoints after bounding box filtering: 161
+Keypoints' distribution of neighborhood size: 7.45211
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.62804 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=129 matches in 0.792645 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 135.424 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1351 keypoints in 105.482 ms
+Number of keypoints after bounding box filtering: 155
+Keypoints' distribution of neighborhood size: 7.57522
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.97403 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=127 matches in 0.811046 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 116.21 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1360 keypoints in 104.335 ms
+Number of keypoints after bounding box filtering: 163
+Keypoints' distribution of neighborhood size: 7.73319
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.44747 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=117 matches in 0.836208 ms
+# keypoints removed = 38
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 115.532 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1347 keypoints in 104.067 ms
+Number of keypoints after bounding box filtering: 164
+Keypoints' distribution of neighborhood size: 7.68803
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.40737 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=130 matches in 0.84848 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 115.244 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1363 keypoints in 104.886 ms
+Number of keypoints after bounding box filtering: 173
+Keypoints' distribution of neighborhood size: 7.73878
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.77225 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=131 matches in 0.88034 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 117.029 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1331 keypoints in 101.488 ms
+Number of keypoints after bounding box filtering: 175
+Keypoints' distribution of neighborhood size: 7.82612
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.01967 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=137 matches in 0.927415 ms
+# keypoints removed = 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 112.414 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1357 keypoints in 104.863 ms
+Number of keypoints after bounding box filtering: 177
+Keypoints' distribution of neighborhood size: 7.81555
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.15197 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=135 matches in 0.943494 ms
+# keypoints removed = 40
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 115.99 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector with n= 1331 keypoints in 104.879 ms
+Number of keypoints after bounding box filtering: 179
+Keypoints' distribution of neighborhood size: 7.88575
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.00511 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=145 matches in 0.954879 ms
+# keypoints removed = 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 115.874 ms
+
+        ====================
+

@@ -1,0 +1,159 @@
+4 (SHITOMASI/FREAK):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 24.0776 ms
+Number of keypoints after bounding box filtering: 125
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 53.2163 ms
+#3 : EXTRACT DESCRIPTORS done
+
+Total Time = 89.1542 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 17.0809 ms
+Number of keypoints after bounding box filtering: 118
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.2533 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=86 matches in 0.655451 ms
+# keypoints removed = 39
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 72.1666 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 11.805 ms
+Number of keypoints after bounding box filtering: 123
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.791 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=90 matches in 0.563472 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 66.3034 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 11.2677 ms
+Number of keypoints after bounding box filtering: 120
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 49.773 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=86 matches in 0.588806 ms
+# keypoints removed = 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 68.9484 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 14.3203 ms
+Number of keypoints after bounding box filtering: 120
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.67 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=88 matches in 0.622008 ms
+# keypoints removed = 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 71.1528 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 10.9643 ms
+Number of keypoints after bounding box filtering: 113
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.0633 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=86 matches in 0.855236 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 65.1564 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 10.9376 ms
+Number of keypoints after bounding box filtering: 114
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 46.0477 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=80 matches in 0.511966 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 64.7779 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 10.9605 ms
+Number of keypoints after bounding box filtering: 123
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 63.8829 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=81 matches in 0.543994 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 82.3846 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 13.8316 ms
+Number of keypoints after bounding box filtering: 111
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 52.0542 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=86 matches in 0.558871 ms
+# keypoints removed = 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 74.9842 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 11.2881 ms
+Number of keypoints after bounding box filtering: 112
+Keypoints' distribution of neighborhood size: 4
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 54.1168 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=85 matches in 0.472392 ms
+# keypoints removed = 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 74.3759 ms
+
+        ====================
+

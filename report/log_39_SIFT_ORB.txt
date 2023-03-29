@@ -1,0 +1,12 @@
+39 (SIFT/ORB):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector with n= 1438 keypoints in 156.501 ms
+Number of keypoints after bounding box filtering: 138
+Keypoints' distribution of neighborhood size: 4.98471
+#2 : DETECT KEYPOINTS done
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.1.0) /tmp/opencv/modules/core/src/alloc.cpp:55: error: (-4:Insufficient memory) Failed to allocate 70166064384 bytes in function 'OutOfMemoryError'
+
+Aborted (core dumped)

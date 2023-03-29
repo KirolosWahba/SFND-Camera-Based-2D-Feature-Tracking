@@ -1,0 +1,12 @@
+17 (FAST/AKAZE):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=5063 keypoints in 2.36855 ms
+Number of keypoints after bounding box filtering: 419
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.1.0) /tmp/opencv/modules/features2d/src/kaze/AKAZEFeatures.cpp:1192: error: (-215:Assertion failed) 0 <= kpts[i].class_id && kpts[i].class_id < static_cast<int>(evolution_.size()) in function 'Compute_Descriptors'
+
+Aborted (core dumped)

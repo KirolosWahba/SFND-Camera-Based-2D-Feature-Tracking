@@ -1,0 +1,159 @@
+12 (HARRIS/SIFT):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 22 milliseconds
+Number of keypoints after bounding box filtering: 17
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 25.9036 ms
+#3 : EXTRACT DESCRIPTORS done
+
+Total Time = 58.9724 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 11 milliseconds
+Number of keypoints after bounding box filtering: 14
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.5672 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=14 matches in 0.137884 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 33.0593 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 15 milliseconds
+Number of keypoints after bounding box filtering: 18
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 21.103 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=11 matches in 0.074162 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 46.5151 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 16 milliseconds
+Number of keypoints after bounding box filtering: 21
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 20.1661 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=16 matches in 0.102038 ms
+# keypoints removed = 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 44.5352 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 16 milliseconds
+Number of keypoints after bounding box filtering: 26
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 20.8972 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=19 matches in 0.093655 ms
+# keypoints removed = 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 47.4199 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 31 milliseconds
+Number of keypoints after bounding box filtering: 43
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.8109 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=22 matches in 0.113649 ms
+# keypoints removed = 4
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 54.8602 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 20 milliseconds
+Number of keypoints after bounding box filtering: 18
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 20.7284 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=22 matches in 0.115676 ms
+# keypoints removed = 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 50.0724 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 18 milliseconds
+Number of keypoints after bounding box filtering: 31
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 20.4507 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=13 matches in 0.097752 ms
+# keypoints removed = 5
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 46.3837 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 16 milliseconds
+Number of keypoints after bounding box filtering: 26
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 20.4399 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=22 matches in 0.123146 ms
+# keypoints removed = 9
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 45.3061 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+Harris Corner KeyPoint Detection Took: 22 milliseconds
+Number of keypoints after bounding box filtering: 34
+Keypoints' distribution of neighborhood size: 6
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 20.6377 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=21 matches in 0.114878 ms
+# keypoints removed = 5
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 51.3373 ms
+
+        ====================
+

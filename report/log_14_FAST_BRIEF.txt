@@ -1,0 +1,159 @@
+14 (FAST/BRIEF):
+====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=5063 keypoints in 2.35584 ms
+Number of keypoints after bounding box filtering: 419
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 2.81914 ms
+#3 : EXTRACT DESCRIPTORS done
+
+Total Time = 14.8836 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4952 keypoints in 2.31853 ms
+Number of keypoints after bounding box filtering: 427
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 2.63501 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=320 matches in 8.31833 ms
+# keypoints removed = 99
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 21.2507 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4863 keypoints in 2.06991 ms
+Number of keypoints after bounding box filtering: 404
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 2.05137 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=332 matches in 4.57428 ms
+# keypoints removed = 95
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 16.0178 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4840 keypoints in 2.12265 ms
+Number of keypoints after bounding box filtering: 423
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.84306 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=299 matches in 4.5323 ms
+# keypoints removed = 105
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 15.5603 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4856 keypoints in 2.07242 ms
+Number of keypoints after bounding box filtering: 386
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.50123 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=331 matches in 4.37225 ms
+# keypoints removed = 92
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 15.0768 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4899 keypoints in 2.08573 ms
+Number of keypoints after bounding box filtering: 414
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.6066 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=276 matches in 4.26128 ms
+# keypoints removed = 110
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 15.1569 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4870 keypoints in 2.11396 ms
+Number of keypoints after bounding box filtering: 418
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.59535 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=327 matches in 4.60189 ms
+# keypoints removed = 87
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 15.3728 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4868 keypoints in 2.12039 ms
+Number of keypoints after bounding box filtering: 406
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.55348 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=324 matches in 4.44937 ms
+# keypoints removed = 94
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 15.1522 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4996 keypoints in 2.16941 ms
+Number of keypoints after bounding box filtering: 396
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.551 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=315 matches in 4.2778 ms
+# keypoints removed = 91
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 15.0932 ms
+
+        ====================
+
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n=4997 keypoints in 2.12258 ms
+Number of keypoints after bounding box filtering: 401
+Keypoints' distribution of neighborhood size: 7
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.84089 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching. cross-check=0
+ (KNN & Distance Ratio Filtering) with n=307 matches in 4.20654 ms
+# keypoints removed = 89
+#4 : MATCH KEYPOINT DESCRIPTORS done
+
+Total Time = 15.3441 ms
+
+        ====================
+
